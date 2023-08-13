@@ -1,0 +1,8 @@
+start=input("Hello :\t")
+print(start)
+name=input(str("What is your name :\t"))
+print(start,name)
+age1=input("What is your age :\t")
+age=int(age1)
+print(name,"you are",age,"years old")
+print("Nice to meet you",name)
